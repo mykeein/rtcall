@@ -14,7 +14,7 @@ import android.widget.Toast;
 import rtc.lyuzik.com.rtcall.services.CallRecordingService;
 
 /**
- * Created by static on 4/18/2015.
+ * Created by lyuzik on 4/18/2015.
  */
 public class RecordChooseActivity extends Activity {
     public static final String PHONE_NUMBER = "phone_number";
